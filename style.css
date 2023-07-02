@@ -7,13 +7,13 @@
 
 :root {
   /* color for main nav */
-  --bg-light-green: #7cb4d0;
+  --bg-light-green: #bc7cd0;
 
   /* color for (description and image (tittled)) nav. */
-  --bg-green-yellow: #D07CA4;
+  --bg-green-yellow: #45a9a0;
 
   /* color for border */
-  --b-dark-yellow: #8d2bc1;
+  --b-dark-yellow: #6e2d82;
 
   /* color for new wrapper div */
   --b-light-yellow: #fff;
@@ -27,7 +27,7 @@
   align-items: center;
   text-align: center;
   box-sizing: border-box;
-  border-bottom: solid 2px #D07CA4;
+  border-bottom: solid 2px #226c81;
   color: white;
 }
 
